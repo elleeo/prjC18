@@ -1,3 +1,0 @@
-FielName, Version, Date, Note
-c18-hw2-v2_3_1.bin, 2.3.1, 24/12/2022, Test OTA
-c18-hw2-v2_3.bin, 2.3, 24/12/2022, Aggiunte OTA
